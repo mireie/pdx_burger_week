@@ -1,4 +1,4 @@
-# PDX Burger Week
+# NOT! PDX Burger Week
 ## By Adrian Camacho, Michael Reiersgaard, Arthur Lee :electric_plug:
 
 ---
